@@ -1,0 +1,26 @@
+.scroller-list {
+  .scroller-list-item {
+    height: 100px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    .scroller-list-item-text {
+      flex: 1;
+      display: flex;
+      align-items: end;
+      height: 100%;
+    }
+  }
+}
+
+.scroller-list-horizontal {
+  .scroller-list-item {
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    .scroller-list-item-text {
+      flex: 1;
+      height: 100%;
+    }
+  }
+}

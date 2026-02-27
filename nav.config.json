@@ -1,0 +1,438 @@
+{
+  "zh-CN": [
+    {
+      "name": "更新日志",
+      "path": "/changelog"
+    },
+    {
+      "name": "开发指南",
+      "children": [
+        {
+          "path": "/installation",
+          "name": "安装"
+        },
+        {
+          "path": "/quickstart",
+          "name": "快速上手"
+        },
+        {
+          "path": "/i18n",
+          "name": "国际化"
+        },
+        {
+          "path": "/custom-theme",
+          "name": "自定义主题"
+        },
+        {
+          "path": "/transition",
+          "name": "内置过渡动画"
+        }
+      ]
+    },
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "Basic",
+          "list": [
+            {
+              "path": "/layout",
+              "title": "Layout 布局"
+            },
+            {
+              "path": "/container",
+              "title": "Container 布局容器"
+            },
+            {
+              "path": "/font-family",
+              "title": "fontFamily 字体展示"
+            },
+            {
+              "path": "/color",
+              "title": "Color 色彩"
+            },
+            {
+              "path": "/border",
+              "title": "Border 边框"
+            },
+            {
+              "path": "/icon",
+              "title": "Icon 图标"
+            },
+            {
+              "path": "/icon-custom",
+              "title": "Icon 扩展图标"
+            },
+            {
+              "path": "/button",
+              "title": "Button 按钮"
+            },
+            {
+              "path": "/link",
+              "title": "Link 文字链接"
+            }
+          ]
+        },
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/radio",
+              "title": "Radio 单选框"
+            },
+            {
+              "path": "/checkbox",
+              "title": "Checkbox 多选框"
+            },
+            {
+              "path": "/input",
+              "title": "Input 输入框"
+            },
+            {
+              "path": "/input-number",
+              "title": "InputNumber 计数器"
+            },
+            {
+              "path": "/select",
+              "title": "Select 选择器"
+            },
+            {
+              "path": "/cascader",
+              "title": "Cascader 级联选择器"
+            },
+            {
+              "path": "/switch",
+              "title": "Switch 开关"
+            },
+            {
+              "path": "/slider",
+              "title": "Slider 滑块"
+            },
+            {
+              "path": "/time-picker",
+              "title": "TimePicker 时间选择器"
+            },
+            {
+              "path": "/date-picker",
+              "title": "DatePicker 日期选择器"
+            },
+            {
+              "path": "/datetime-picker",
+              "title": "DateTimePicker 日期时间选择器"
+            },
+            {
+              "path": "/upload",
+              "title": "Upload 上传"
+            },
+            {
+              "path": "/upload-table",
+              "title": "Upload 表格上传",
+              "isNew": true
+            },
+            {
+              "path": "/rate",
+              "title": "Rate 评分"
+            },
+            {
+              "path": "/color-picker",
+              "title": "ColorPicker 颜色选择器"
+            },
+            {
+              "path": "/transfer",
+              "title": "Transfer 穿梭框"
+            },
+            {
+              "path": "/form",
+              "title": "Form 表单"
+            },
+            {
+              "path": "/form-two",
+              "title": "Form 表单2"
+            }
+          ]
+        },
+        {
+          "groupName": "Data",
+          "list": [
+            {
+              "path": "/table",
+              "title": "Table 表格"
+            },
+            {
+              "path": "/tag",
+              "title": "Tag 标签"
+            },
+            {
+              "path": "/progress",
+              "title": "Progress 进度条"
+            },
+            {
+              "path": "/tree",
+              "title": "Tree 树形控件",
+              "isNew": true
+            },
+            {
+              "path": "/pagination",
+              "title": "Pagination 分页"
+            },
+            {
+              "path": "/badge",
+              "title": "Badge 标记"
+            },
+            {
+              "path": "/avatar",
+              "title": "Avatar 头像"
+            },
+            {
+              "path": "/skeleton",
+              "title": "Skeleton 骨架屏"
+            },
+            {
+              "path": "/empty",
+              "title": "Empty 空状态"
+            },
+            {
+              "path": "/descriptions",
+              "title": "Descriptions 描述列表"
+            },
+            {
+              "path": "/result",
+              "title": "Result 结果"
+            }
+          ]
+        },
+        {
+          "groupName": "Notice",
+          "list": [
+            {
+              "path": "/alert",
+              "title": "Alert 警告"
+            },
+            {
+              "path": "/loading",
+              "title": "Loading 加载"
+            },
+            {
+              "path": "/message",
+              "title": "Message 消息提示"
+            },
+            {
+              "path": "/message-box",
+              "title": "MessageBox 弹框"
+            },
+            {
+              "path": "/notification",
+              "title": "Notification 通知"
+            }
+          ]
+        },
+        {
+          "groupName": "Navigation",
+          "list": [
+            {
+              "path": "/menu",
+              "title": "NavMenu 导航菜单"
+            },
+            {
+              "path": "/tabs",
+              "title": "Tabs 标签页"
+            },
+            {
+              "path": "/breadcrumb",
+              "title": "Breadcrumb 面包屑"
+            },
+            {
+              "path": "/page-header",
+              "title": "PageHeader 页头"
+            },
+            {
+              "path": "/dropdown",
+              "title": "Dropdown 下拉菜单"
+            },
+            {
+              "path": "/steps",
+              "title": "Steps 步骤条"
+            }
+          ]
+        },
+        {
+          "groupName": "Others",
+          "list": [
+            {
+              "path": "/dialog",
+              "title": "Dialog 对话框"
+            },
+            {
+              "path": "/tooltip",
+              "title": "Tooltip 文字提示"
+            },
+            {
+              "path": "/popover",
+              "title": "Popover 弹出框"
+            },
+            {
+              "path": "/popconfirm",
+              "title": "Popconfirm 气泡确认框"
+            },
+            {
+              "path": "/card",
+              "title": "Card 卡片"
+            },
+            {
+              "path": "/carousel",
+              "title": "Carousel 走马灯"
+            },
+            {
+              "path": "/collapse",
+              "title": "Collapse 折叠面板"
+            },
+            {
+              "path": "/timeline",
+              "title": "Timeline 时间线"
+            },
+            {
+              "path": "/divider",
+              "title": "Divider 分割线"
+            },
+            {
+              "path": "/calendar",
+              "title": "Calendar 日历"
+            },
+            {
+              "path": "/image",
+              "title": "Image 图片"
+            },
+            {
+              "path": "/backtop",
+              "title": "Backtop 回到顶部"
+            },
+            {
+              "path": "/infiniteScroll",
+              "title": "InfiniteScroll 无限滚动"
+            },
+            {
+              "path": "/drawer",
+              "title": "Drawer 抽屉"
+            }
+          ]
+        },
+        {
+          "groupName": "业务基础组件",
+          "list": [
+            {
+              "path": "/layout-column",
+              "title": "LayoutColumn 树形+表格布局"
+            },
+            {
+              "path": "/form-base",
+              "title": "FormBase 表格布局"
+            },
+            {
+              "path": "/dialog-header",
+              "title": "DialogHeader 弹出层"
+            },
+            {
+              "path": "/layout-tree",
+              "title": "LayoutTree 左边树",
+              "isNew": true
+            },
+            {
+              "path": "/base-tabs",
+              "title": "BaseTabs tab栏"
+            },
+            {
+              "path": "/virtual-tree",
+              "title": "VirtualTree 虚拟树"
+            },
+            {
+              "path": "/virtual-select",
+              "title": "VirtualSelect 虚拟下拉框",
+              "isNew": true
+            },
+            {
+              "path": "/virtual-list",
+              "title": "VirtualList 虚拟列表",
+              "isNew": true
+            },
+            {
+              "path": "/select-tree",
+              "title": "SelectTree 下拉树",
+              "isNew": true
+            },
+            {
+              "path": "/virtual-select-tree",
+              "title": "VirtualSelectTree 虚拟下拉树",
+              "isNew": true
+            },
+            {
+              "path": "/virtual-table",
+              "title": "VirtualTable 虚拟表格",
+              "isNew": true
+            }
+          ]
+        },
+        {
+          "groupName": "二次封装业务组件",
+          "list": [
+            {
+              "path": "/form-item-checkbox-group",
+              "title": "FormItemCheckboxGroup 复选框"
+            },
+            {
+              "path": "/form-item-date",
+              "title": "FormItemDate 时间"
+            },
+            {
+              "path": "/form-item-dic",
+              "title": "FormItemDic 字典"
+            },
+            {
+              "path": "/form-item-editor",
+              "title": "FormItemEditor 富文本"
+            },
+            {
+              "path": "/form-item-input",
+              "title": "FormItemInput 输入框"
+            },
+            {
+              "path": "/form-item-input-number",
+              "title": "FormItemInputNumber 计数器"
+            },
+            {
+              "path": "/form-item-input-money",
+              "title": "FormItemInputMoney 金额输入框"
+            },
+            {
+              "path": "/form-item-radio-group",
+              "title": "FormItemRadioGroup 单选框"
+            },
+            {
+              "path": "/form-item-select",
+              "title": "FormItemSelect 下拉框"
+            },
+            {
+              "path": "/form-item-switch",
+              "title": "FormItemSwitch 开关"
+            },
+            {
+              "path": "/form-item-textarea",
+              "title": "FormItemTextarea 文本域"
+            },
+            {
+              "path": "/form-item-tree-select",
+              "title": "FormItemTreeSelect 下拉树"
+            },
+            {
+              "path": "/form-item-upload",
+              "title": "FormItemUpload 上传附件"
+            },
+            {
+              "path": "/form-item-upload-card",
+              "title": "FormItemUploadCard 上传图片列表"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
