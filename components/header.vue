@@ -285,12 +285,10 @@
 <!--    isHome-->
     <div id="v3-banner" v-if="false">
       <template v-if="lang === 'zh-CN'">
-        您正在浏览基于 Vue 2.x 的 Element UI 文档;
-        <a href="https://element-plus.org/#/zh-CN">点击这里</a> 查看 Vue 3.x 的升级版本
+        您正在浏览基于 Vue 2.x 的 PitElement UI 文档;
       </template>
       <template v-else>
-        You’re browsing the documentation of Element UI for Vue 2.x version.
-        <a href="https://element-plus.org">Click here</a> for Vue 3.x version
+        You’re browsing the documentation of PitElement UI for Vue 2.x version.
       </template>
     </div>
     <header class="header" ref="header">

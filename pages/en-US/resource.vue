@@ -141,7 +141,7 @@
           <div class="card">
             <img src="~examples/assets/images/Axure-Components.svg" alt="">
             <h3>Axure Components</h3>
-            <p>By importing Element UI in Axure, you can easily apply all the components we provide during interaction design.</p>
+            <p>By importing Pit Element UI in Axure, you can easily apply all the components we provide during interaction design.</p>
             <a
               onclick="ga('send', 'event', 'ResourceDownload', 'Download', 'Axure');"
               href="https://github.com/ElementUI/Resources/raw/master/Element_Components_v2.1.0.rplib"

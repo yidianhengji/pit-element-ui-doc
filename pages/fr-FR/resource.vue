@@ -141,7 +141,7 @@
           <div class="card">
             <img src="~examples/assets/images/Axure-Components.svg" alt="">
             <h3>Composants Axure</h3>
-            <p>En important ELement UI dans Axure, vous pourrez facilement utiliser les composants durant le design des interactions</p>
+            <p>En important Pit ELement UI dans Axure, vous pourrez facilement utiliser les composants durant le design des interactions</p>
             <a
               onclick="ga('send', 'event', 'ResourceDownload', 'Download', 'Axure');"
               href="https://github.com/ElementUI/Resources/raw/master/Element_Components_v2.1.0.rplib"
